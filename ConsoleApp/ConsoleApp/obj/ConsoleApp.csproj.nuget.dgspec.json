@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vk185191\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\vk185191\\OneDrive - NCR Corporation\\Desktop\\project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vk185191\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\vk185191\\OneDrive - NCR Corporation\\Desktop\\project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vk185191\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\vk185191\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\vk185191\\OneDrive - NCR Corporation\\Desktop\\project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\vk185191\\OneDrive - NCR Corporation\\Desktop\\project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\vk185191\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vk185191\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\vk185191\\OneDrive - NCR Corporation\\Desktop\\project\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vk185191\\AppData\\Roaming\\NuGet\\NuGet.Config",
